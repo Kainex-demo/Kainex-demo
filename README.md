@@ -1,16 +1,20 @@
-## Hi there 👋
+# KANEX NFC Demo
+![Demo-Screenshot](https://i.imgur.com/placeholder.png)
 
-<!--
-**Kainex-demo/Kainex-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Features
+- 📱 NFC-Tag-Scanning (Android/iOS)
+- 🎨 4 Kontakt-Modi (Dating/Business/Networking/Incognito)
+- 🔒 100% lokal – keine Cloud-Daten
 
-Here are some ideas to get you started:
+## Live-Test
+👉 [Demo starten](https://your-glitch-project.glitch.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## NFC programmieren
+1. Nutze **NFC Tools** (App)
+2. Schreibe die URL: `https://your-glitch-project.glitch.me`
+3. Auf Tag kleben – fertig!
+
+## Entwickelt mit
+- HTML/CSS/JS
+- Web NFC API
+- Glitch Hosting
